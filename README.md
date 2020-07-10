@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>![](https://bison.usgs.gov/images/spinner2.gif)</center>
+<center>
+  
+  ![](https://bison.usgs.gov/images/spinner2.gif)
+  
+  </center>
