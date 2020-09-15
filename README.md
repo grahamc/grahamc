@@ -1,3 +1,4 @@
+
 <!--
 
 ### Hi there 👋
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <center>
-  
-  ![](https://bison.usgs.gov/images/spinner2.gif)
-  
+
+  ![](https://exhibits.library.gsu.edu/current/files/original/d5d5818686f4dad2696b2a27a65a809a.jpg)
+
   </center>
